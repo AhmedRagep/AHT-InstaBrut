@@ -26,13 +26,6 @@ $ cd AHT-InstaBrut
 $ bash install
 $ python2 AHT.py
 ```
-# By Ahmed Ragep
-# AHT Hacker
-# 
-# YOUTUBE : www.youtube.com/c/AhmedAltorkyAndroid
-# YOUTUBE2 : www.youtube.com/c/AHTHacker2
-# FACEBOOK : www.facebook.com/Ahmed.Altorky.Android
-# TELEGRAM : t.me/AHT-Hacker
 
 # Proxy
 Added extra proxy list and if you can add more proxy list.
@@ -40,6 +33,9 @@ Added extra proxy list and if you can add more proxy list.
 # Requirements 
 python2
 pip latest version
+
+
+
 
 
 
