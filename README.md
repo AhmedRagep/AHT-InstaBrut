@@ -29,7 +29,11 @@ $ python2 AHT.py
 
 # Proxy
 Added extra proxy list and if you can add more proxy list.
-
+## add Proxy
+```
+$ cd AHT-InastaBrut
+echo "   proky   " >> prokxy.txt
+```
 # Requirements 
 python2
 pip latest version
