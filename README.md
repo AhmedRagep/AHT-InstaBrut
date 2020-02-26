@@ -34,6 +34,11 @@ Added extra proxy list and if you can add more proxy list.
 $ cd AHT-InastaBrut
 echo "   proky   " >> prokxy.txt
 ```
+
+## To get a proxy
+```
+https://free-proxy-list.net/
+```
 # Requirements 
 python2
 pip latest version
