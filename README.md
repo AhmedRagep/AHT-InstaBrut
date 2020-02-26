@@ -1,8 +1,9 @@
-[![AHT Hackerr](https://img.shields.io/badge/AHT-Hacker-red.svg)](https://www.youtube.com/c/AhmedAltorkyAndroid)
+[![AHT Hackerr](https://img.shields.io/badge/AHT-Hacker-red.svg)](https://www.youtube.com/c/AhmedAltorkyAndroid)     [![AHT Hacker2](https://img.shields.io/badge/AHT-Hacker2-green.svg)](https://www.youtube.com/c/AHTHacker2)       [![FACEBOOK AHT](https://img.shields.io/badge/FACEBOOK-AHT-yellow.svg)](https://www.facebook.com/c/Ahmed.Altorky.Android)   [![Telegram AHT](https://img.shields.io/badge/Telegram-AHT-purple.svg)](https://t.me/AHT_Hacker)
 
 
 <p align="center"><img src="https://github.com/Ahmed-Altorky-Android/AHT-InstaBrut/blob/master/FB_IMG_15826627876770041.jpg" /></p>
-# AHT-instaBrut > To get an Instagram password\
+
+# AHT-instaBrut > To get an Instagram password
 This tool to get Instagram accounts easily by guessing the password
 
 ## :skull: instructions
