@@ -36,9 +36,9 @@ echo "   proxy   " >> proxy.txt
 ```
 
 ## To get a proxy
-```
+
 https://free-proxy-list.net/
-```
+
 # Requirements 
 python3
 
