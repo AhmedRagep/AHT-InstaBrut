@@ -8,6 +8,7 @@ import random
 import sys
 
 # color this tool by Ahmed Ragep
+os.system("rm FB_IMG_15826627876770041.jpg")
 os.system("clear")
 os.system("python2 .sem.py")
 print ('')
