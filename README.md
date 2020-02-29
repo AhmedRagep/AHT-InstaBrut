@@ -24,7 +24,7 @@ $ pkg install git
 $ git clone https://github.com/Ahmed-Altorky-Android/AHT-InstaBrut.git
 $ cd AHT-InstaBrut
 $ bash install
-$ python2 AHT.py
+$ python3 AHT.py
 ```
 
 # Proxy
@@ -32,7 +32,7 @@ Added extra proxy list and if you can add more proxy list.
 ## add Proxy
 ```
 $ cd AHT-InastaBrut
-echo "   proky   " >> prokxy.txt
+echo "   proxy   " >> proxy.txt
 ```
 
 ## To get a proxy
@@ -40,7 +40,8 @@ echo "   proky   " >> prokxy.txt
 https://free-proxy-list.net/
 ```
 # Requirements 
-python2
+python3
+
 pip latest version
 
 
