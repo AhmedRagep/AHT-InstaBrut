@@ -24,7 +24,7 @@ $ pkg install git
 $ git clone https://github.com/Ahmed-Altorky-Android/AHT-InstaBrut.git
 $ cd AHT-InstaBrut
 $ bash install
-$ python3 AHT.py
+$ python2 AHT.py
 ```
 
 # Proxy
