@@ -40,7 +40,7 @@ echo "   proxy   " >> proxy.txt
 https://free-proxy-list.net/
 
 # Requirements 
-python3
+python2
 
 pip latest version
 
