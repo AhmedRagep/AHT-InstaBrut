@@ -9,6 +9,7 @@ import sys
 
 # color this tool by Ahmed Ragep
 os.system("rm FB_IMG_15826627876770041.jpg")
+a=input('\033[1;2mEnter to contnue   ~# ')
 os.system("clear")
 os.system("python2 .sem.py")
 print ('')
