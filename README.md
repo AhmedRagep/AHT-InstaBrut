@@ -27,12 +27,20 @@ $ bash install
 $ python2 AHT.py
 ```
 
+# password list
+You can get a list of passwords from the tool
+## Name change
+```
+$ cd AHT-InstaBrut
+$ mv name.txt pass.txt
+```
+
 # Proxy
 Added extra proxy list and if you can add more proxy list.
 ## add Proxy
 ```
 $ cd AHT-InastaBrut
-echo "   proxy   " >> proxy.txt
+$ echo "   proxy   " >> proxy.txt
 ```
 
 ## To get a proxy
